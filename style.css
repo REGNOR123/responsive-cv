@@ -1,0 +1,117 @@
+html{
+    font-family: 'Times New Roman', Times, serif;
+}
+.left {
+
+    box-shadow: 0px 0px 15px 4px #b3b3b3;
+
+}
+.right{
+    box-shadow: 0px 0px 15px 4px #b3b3b3;
+    
+
+}
+.sdw{
+    box-shadow:0px 0px 15px 4px #b3b3b3; ;
+}
+.cent{
+    text-align: center;
+    }
+img{
+    margin: 2px;
+}
+
+
+
+.copyright{
+    text-align:center;
+    margin:25px 15px 5px 0px;
+    color:white;
+    background-color: maroon;
+}
+
+.zoom:hover{
+    transform: scale(1.05);
+  }
+li:hover{
+    transform: scale(0.9);
+    font-weight: bold;
+    color:gold;
+}
+p:hover{
+    transform: scale(1.05);
+    font-weight: bold;
+    color: black;
+}
+
+h5:hover{
+
+    transform: scale(1.05);
+    font-weight: bold;
+    color:white;
+
+}
+h4:hover{
+
+    transform: scale(1.05);
+    font-weight: bold;
+    color:black;
+
+}
+h3:hover{
+
+    transform: scale(1.05);
+    font-weight: bold;
+    color:red;
+
+}
+h2:hover{
+
+    transform: scale(1.05);
+    font-weight: bold;
+    color: orangered;
+
+}
+
+.gold:hover{
+    color: gold;
+    font-weight: bold;
+
+}
+
+
+#color-blk-1{
+    background-color:whitesmoke;
+}
+#colr-org-0{
+    background-color:maroon;
+}
+#colr-org-1{
+    background-color:rgb(1, 1, 51);
+}
+#colr-org-2{
+    background-color: rgb(1, 1, 51);
+}
+#colr-org-3{
+    background-color: rgb(1, 1, 51);
+}
+
+#color-blk-2{
+    background-color:whitesmoke;
+}
+#colr-brwn-1{
+    background-color:orangered;
+}
+#colr-brwn-2{
+    background-color:orangered;
+}
+#colr-brwn-3{
+    background-color: orangered;
+}
+
+.txt-orng{
+    color:orangered ;
+}
+.txt-blue{
+    color:rgb(2, 2, 95);
+}
